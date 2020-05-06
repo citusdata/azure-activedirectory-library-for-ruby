@@ -31,5 +31,5 @@ them to your tenant.
    previously.
 
 ## Running the application
-1. Start the web application with `ruby web_api.rb`.
+1. Start the web application with `ruby web_app.rb`.
 2. Run the native application with `ruby native_app.rb`.
